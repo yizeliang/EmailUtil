@@ -1,5 +1,7 @@
 # 发送邮件工具类
 
+[![](https://jitpack.io/v/yizems/EmailUtil.svg)](https://jitpack.io/#yizems/EmailUtil)
+
 ```java
 
  MailSendUtil.init("aaa@qq.com","smtp.qq.com","465","pwd");
